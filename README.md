@@ -1,7 +1,36 @@
-Hi, my name is Alana Ahart, and I’m a passionate, continuous learner currently transitioning into the exciting field of data analytics. With a background in nonprofit and education, I’ve honed my skills in problem-solving, collaboration, and driving meaningful outcomes. Now, I’m channeling my creativity, curiosity, and data skills to help organizations make data-driven decisions that lead to impactful results.
+# Hi there, I’m Alana Ahart 👋
 
-I’m currently pursuing a Master’s in Applied Business Analytics, where I’m enhancing my expertise in data visualization, statistical analysis, and tools like Python and Looker Studio. My goal is to bridge my analytical abilities with creative problem-solving to deliver insights that support strategic decision-making.
+**Aspiring Data Analyst** graduating in a few weeks with a Master’s in Applied Business Analytics from Boston University; excited to enter the world of data science and translate complex business challenges into data driven solutions.
 
-When I’m not working with data, I enjoy spending time outdoors. I love hiking, running, and cycling, and I’m always looking for new trails and scenic spots to explore.
+## 🔧 Skills & Tools
 
-As I continue my journey into data analytics, I aspire to work in roles that challenge me, foster growth, and allow me to contribute meaningful insights to innovative teams. I’m excited to bring my passion for learning and problem-solving to new opportunities.
+- **Languages:** Python, R, SQL  
+- **Visualization:** Tableau, Power BI, Matplotlib, Plotly
+- **📈 Analytics & Optimization:** Customer Segmentation · Clustering · A/B Testing · Google Analytics   
+- **📐 Statistical Modeling & Forecasting:**  
+  - Linear Regression · Logistic Regression  
+  - Time Series Analysis   
+- **🤖 Machine Learning:**  
+  - Decision Tree Modeling · Random Forest  
+  - XGBoost · LightGBM  
+  - TensorFlow · PyTorch
+- **🗄 Databases & Concepts:** Relational Database Design · Normalization · ER Diagrams  
+- **🛠 Data Tools & IDEs:** Oracle SQL Developer 
+
+## 🎓 Education
+
+**Boston University** (Boston, MA)  
+*M.S. in Applied Business Analytics, Aug 2025*  
+Key coursework: Business Web Analytics · Marketing Data Analytics · Database Design · Data Mining · Information Structures with Python 
+
+**Mercer University** (Atlanta, GA)  
+*M.S. in Mental Health Counseling, Jul 2017*
+
+**Kennesaw State University** (Kennesaw, GA)  
+*B.S. in Psychology, July 2014*
+
+## 📫 Let’s Connect
+
+- 📧 alanaahart02@gmail.com 
+- 🔗 [LinkedIn](www.linkedin.com/in/alanaahart)  
+
