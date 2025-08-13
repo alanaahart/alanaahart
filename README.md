@@ -30,5 +30,5 @@ Key coursework: Business Web Analytics · Marketing Data Analytics · Database D
 ## 📫 Let’s Connect
 
 - 📧 alanaahart02@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alanaahart)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alanaahart/)  
 
