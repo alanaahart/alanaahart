@@ -12,8 +12,6 @@
   - Time Series Analysis   
 - **🤖 Machine Learning:**  
   - Decision Tree Modeling · Random Forest  
-  - XGBoost · LightGBM  
-  - TensorFlow · PyTorch
 - **🗄 Databases & Concepts:** Relational Database Design · Normalization · ER Diagrams  
 - **🛠 Data Tools & IDEs:** Oracle SQL Developer 
 
