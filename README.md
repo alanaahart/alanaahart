@@ -13,7 +13,7 @@
 - **🤖 Machine Learning:**  
   - Decision Tree Modeling · Random Forest  
 - **🗄 Databases & Concepts:** Relational Database Design · Normalization · ER Diagrams  
-- **🛠 Data Tools & IDEs:** Oracle SQL Developer 
+- **🛠 Data Tools & IDEs:** Oracle SQL Developer · Lucid Chart
 
 ## 🎓 Education
 
