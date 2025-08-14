@@ -27,8 +27,24 @@ Key coursework: Business Web Analytics · Marketing Data Analytics · Database D
 **Kennesaw State University** (Kennesaw, GA)  
 *B.S. in Psychology, July 2014*
 
-## 📫 Let’s Connect
+
+## 📊 Featured Projects
+
+- **Airbnb Classification**  
+  Naive Bayes and Classification Tree models to predict listing prices and cancellation fees.  
+  🔗 [View Project](https://github.com/your-username/airbnb-price-prediction)  
+  🌐 [Live HTML Report](https://your-username.github.io/airbnb-price-prediction/reports/airbnb_report.html)
+
+- **Time Series Forecasting with Prophet & Holt-Winters**  
+  Comparative analysis of forecasting models with visual dashboards.  
+  🔗 [View Project](https://github.com/your-username/time-series-forecasting)
+
+- **SQL Analytics Dashboard**  
+  Business insights from normalized schema and advanced SQL queries.  
+  🔗 [View Project](https://github.com/your-username/sql-dashboard)
+
+  ## 📫 Let’s Connect
 
 - 📧 alanaahart02@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alanaahart/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alanaahart/)
 
