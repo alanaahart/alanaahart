@@ -30,15 +30,13 @@ Key coursework: Business Web Analytics · Marketing Data Analytics · Database D
 
 ## 📊 Featured Projects
 
+- **Bergen City Bike Forecasting & Database Design**  
+This project explores ride trends for Bergen City Bike. It combines historical ride data analysis, time series forecasting, and relational database design
+  🔗 [View Project](https://github.com/alanaahart/bergen-city-bike-forecasting)
+
 - **Airbnb Classification**  
   Naive Bayes and Classification Tree models to predict listing prices and cancellation fees.  
   🔗 [View Project](https://github.com/alanaahart/AD699-Naive-Bayes-Decision-Tree)  
-
-
-- **Bergen City Bike Forecasting & Database Design**  
-This project explores ride trends for Bergen City Bike. It combines historical ride data analysis, time series forecasting, and relational database design
-  🔗 [View Project](https://github.com/your-username/time-series-forecasting)
-
 
 
   ## 📫 Let’s Connect
