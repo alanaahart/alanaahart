@@ -32,16 +32,14 @@ Key coursework: Business Web Analytics · Marketing Data Analytics · Database D
 
 - **Airbnb Classification**  
   Naive Bayes and Classification Tree models to predict listing prices and cancellation fees.  
-  🔗 [View Project](https://github.com/your-username/airbnb-price-prediction)  
-  🌐 [Live HTML Report](https://your-username.github.io/airbnb-price-prediction/reports/airbnb_report.html)
+  🔗 [View Project](https://github.com/alanaahart/AD699-Naive-Bayes-Decision-Tree)  
+
 
 - **Time Series Forecasting with Prophet & Holt-Winters**  
   Comparative analysis of forecasting models with visual dashboards.  
   🔗 [View Project](https://github.com/your-username/time-series-forecasting)
 
-- **SQL Analytics Dashboard**  
-  Business insights from normalized schema and advanced SQL queries.  
-  🔗 [View Project](https://github.com/your-username/sql-dashboard)
+
 
   ## 📫 Let’s Connect
 
