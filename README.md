@@ -8,10 +8,10 @@
 - **Visualization:** Tableau, Power BI, Matplotlib, Plotly
 - **📈 Analytics & Optimization:** Customer Segmentation · Clustering · A/B Testing · Google Analytics   
 - **📐 Statistical Modeling & Forecasting:**  
-  - Linear Regression · Logistic Regression  
+  - Linear Regression 
   - Time Series Analysis   
 - **🤖 Machine Learning:**  
-  - Decision Tree Modeling · Random Forest  
+  - Decision Tree Modeling 
 - **🗄 Databases & Concepts:** Relational Database Design · Normalization · ER Diagrams  
 - **🛠 Data Tools & IDEs:** Oracle SQL Developer · Lucid Chart
 
