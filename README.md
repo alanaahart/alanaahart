@@ -35,8 +35,8 @@ Key coursework: Business Web Analytics · Marketing Data Analytics · Database D
   🔗 [View Project](https://github.com/alanaahart/AD699-Naive-Bayes-Decision-Tree)  
 
 
-- **Time Series Forecasting with Prophet & Holt-Winters**  
-  Comparative analysis of forecasting models with visual dashboards.  
+- **Bergen City Bike Forecasting & Database Design**  
+This project explores ride trends for Bergen City Bike. It combines historical ride data analysis, time series forecasting, and relational database design
   🔗 [View Project](https://github.com/your-username/time-series-forecasting)
 
 
