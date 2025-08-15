@@ -12,7 +12,6 @@
   - Time Series Analysis   
 - **🤖 Machine Learning:**  
   - Decision Tree Modeling 
-- **🗄 Databases & Concepts:** Relational Database Design · Normalization · ER Diagrams  
 - **🛠 Data Tools & IDEs:** Oracle SQL Developer · Lucid Chart
 
 ## 🎓 Education
