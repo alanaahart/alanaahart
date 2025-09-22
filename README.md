@@ -1,6 +1,6 @@
 # Hi there, I’m Alana Ahart 👋
 
-**Aspiring Data Analyst** graduating in a few weeks with a Master’s in Applied Business Analytics from Boston University; excited to enter the world of data science and translate complex business challenges into data driven solutions.
+**Aspiring Data Analyst** recently graduated with a Master’s in Applied Business Analytics from Boston University; excited to enter the world of data science and translate complex business challenges into data driven solutions.
 
 ## 🔧 Skills & Tools
 
