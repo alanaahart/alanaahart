@@ -12,7 +12,7 @@
   - Time Series Analysis   
 - **🤖 Machine Learning:**  
   - Decision Tree Modeling 
-- **🛠 Data Tools & IDEs:** Oracle SQL Developer · Lucid Chart
+- **🛠 Data Tools & IDEs:** Oracle SQL Developer · Lucid Chart · Jupyter Notebook
 
 ## 🎓 Education
 
