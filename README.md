@@ -38,7 +38,7 @@ This project explores ride trends for Bergen City Bike. It combines historical r
   🔗 [View Project](https://github.com/alanaahart/AD699-Naive-Bayes-Decision-Tree)  
 
 - **Home Improvement Industry: Data Pipeline & Dashboard**  
-  This project connects to a financial data API using Python, processes the data in a Jupyter notebook, and visualizes key liquidity and revenue metrics in Tableau.  
+  This project connects to a financial data API using Python, processes the data in a Jupyter notebook, forecasts revenue for The Home Depot & Lowe's Home Improvement, and visualizes key liquidity and revenue metrics in Tableau.  
   🔗 [View Project](https://github.com/alanaahart/Home-Improvement)  
 
 
