@@ -21,10 +21,10 @@
 Key coursework: Business Web Analytics · Marketing Data Analytics · Database Design · Data Mining · Information Structures with Python 
 
 **Mercer University** (Atlanta, GA)  
-*M.S. in Mental Health Counseling, Jul 2017*
+*M.S. in Mental Health Counseling*
 
 **Kennesaw State University** (Kennesaw, GA)  
-*B.S. in Psychology, July 2014*
+*B.S. in Psychology*
 
 
 ## 📊 Featured Projects
